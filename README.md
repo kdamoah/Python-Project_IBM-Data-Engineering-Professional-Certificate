@@ -4,7 +4,7 @@ This is a project from IBM Data Engineering Professional Certificate. In this pr
 
 The following are the project tasks:
 •	Collecting data using APIs
-•	Collecting data using webscraping
+•	Collecting data using web scraping
 •	Downloading files to process
 •	Reading csv, xml and json file types
 •	Extracting data from the above file types
